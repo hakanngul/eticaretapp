@@ -1,17 +1,9 @@
 # Simple Login - Register - E-commerce App
 
-####### Sign In Page
-![signIn](https://user-images.githubusercontent.com/34252239/93721287-ae3ba780-fb97-11ea-86bf-0df8528cf3d2.png)
 
+![signIn](https://user-images.githubusercontent.com/34252239/93721287-ae3ba780-fb97-11ea-86bf-0df8528cf3d2.png) ![signup](https://user-images.githubusercontent.com/34252239/93721315-e0e5a000-fb97-11ea-8dc7-6d37e63b1b71.png)
 
-####### Sign Up Page
-![signup](https://user-images.githubusercontent.com/34252239/93721315-e0e5a000-fb97-11ea-8dc7-6d37e63b1b71.png)
-
-####### Home Page
-![home](https://user-images.githubusercontent.com/34252239/93721320-f5299d00-fb97-11ea-9c21-e9e5f53cd381.png)
-
-####### Product Page
-![product](https://user-images.githubusercontent.com/34252239/93721325-007cc880-fb98-11ea-9615-b0ad0e55ce5a.png)
+![home](https://user-images.githubusercontent.com/34252239/93721320-f5299d00-fb97-11ea-9c21-e9e5f53cd381.png) ![product](https://user-images.githubusercontent.com/34252239/93721325-007cc880-fb98-11ea-9615-b0ad0e55ce5a.png)
 
 
 
